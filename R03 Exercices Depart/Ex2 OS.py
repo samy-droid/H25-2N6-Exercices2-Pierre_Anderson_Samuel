@@ -31,6 +31,7 @@ print(f"Q5{'_'*60}")
 
 #os.mkdir("OS-ExercQ5")
 print(os.listdir())
+# un commentire
 
 
 # Q6   Créez les répertoires OS-ExercQ6/Subdir1 avec une seule instruction
