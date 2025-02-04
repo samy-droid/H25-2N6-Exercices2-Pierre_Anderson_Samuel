@@ -18,5 +18,7 @@ for cours in os.listdir() :
     cours_strip = cours_split2[0].strip()
     cours_strip2 = cours_split2[2].strip()[1:]
     cours_zfill = cours_strip2.zfill(2)
+    nouveau_nom = cours_zfill + cours_strip + cours_split[1]
+    os.rename(cours, nouveau_nom)
 
 
