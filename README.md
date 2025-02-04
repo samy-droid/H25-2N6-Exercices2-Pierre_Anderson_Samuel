@@ -2,3 +2,6 @@
 
 ## Mise à jour en ligne
 Voici une premiere modif en ligne
+
+## Mise a jour local
+Voici une nouvelle modification
